@@ -1,8 +1,31 @@
 aid: re-build
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/re-build.png
 name: Re:Build
-description: 'Re:Build is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Re:Build Manufacturing is a U.S.-based industrial engineering and manufacturing
+  company that takes complex products from concept to full-rate production through
+  integrated design, engineering, and scalable domestic manufacturing. Founded to
+  rebuild American manufacturing capacity, the company operates a family of
+  specialized engineering and production businesses across more than 14 U.S.
+  locations, spanning aerospace and defense, electrification, energy and
+  environment, medical devices, and robotics and automation. With 400+ engineers
+  and roughly one million square feet of industrial footprint, Re:Build partners
+  with startups and established manufacturers to develop, industrialize, and
+  produce advanced physical products. It was surfaced as a portfolio company of
+  General Catalyst and added to the API Evangelist network; enrichment confirms it
+  is an industrial/manufacturing company with no public API, developer, or machine
+  surface at this time.
 url: https://raw.githubusercontent.com/api-evangelist/re-build/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +35,38 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Enterprise
+- Manufacturing
+- Industrial
+- Engineering
+- Aerospace and Defense
+- Robotics
 apis: []
+common:
+- type: Website
+  url: https://www.rebuildmanufacturing.com
+- type: Blog
+  url: https://rebuildmanufacturing.com/newsroom/
+- type: Support
+  url: https://rebuildmanufacturing.com/contact/
+- type: TermsOfService
+  url: https://rebuildmanufacturing.com/legal/website-terms-conditions/
+- type: PrivacyPolicy
+  url: https://rebuildmanufacturing.com/legal/privacy-policy/
+- type: X
+  url: https://x.com/ReBuildMFG
+- type: LinkedIn
+  url: https://www.linkedin.com/company/re-build-manufacturing
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
