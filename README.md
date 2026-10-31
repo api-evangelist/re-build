@@ -64,6 +64,73 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Re:Build is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+Re:Build Manufacturing is a U.S.-based industrial engineering and manufacturing company that takes complex products from concept to full-rate production through integrated design, engineering, and scalable domestic manufacturing. Founded to rebuild American manufacturing capacity, the company operates a family of specialized engineering and production businesses across more than 14 U.S. locations, spanning aerospace and defense, electrification, energy and environment, medical devices, and robotics and automation. With 400+ engineers and roughly one million square feet of industrial footprint, Re:Build partners with startups and established manufacturers to develop, industrialize, and produce advanced physical products. It was surfaced as a portfolio company of General Catalyst and added to the API Evangelist network; enrichment confirms it is an industrial/manufacturing company with no public API, developer, or machine surface at this time.
 
-Backed by: general-catalyst
+**Areas:** Company · Enterprise · Manufacturing · Industrial · Engineering · Aerospace and Defense · Robotics
+
+## Re:Build on APIs.io
+
+Everything profiled for Re:Build is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/re-build/](https://apis.io/providers/re-build/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.rebuildmanufacturing.com)
+- [Support](https://rebuildmanufacturing.com/contact/)
+- [Blog](https://rebuildmanufacturing.com/newsroom/)
+- [Terms of service](https://rebuildmanufacturing.com/legal/website-terms-conditions/)
+- [Privacy policy](https://rebuildmanufacturing.com/legal/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 9.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/re-build/](https://apis.io/providers/re-build/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Re:Build: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/re-build/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
